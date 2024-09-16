@@ -11,12 +11,14 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	background-color: darkblue;
-	color: #ff0000;
+	background-color: rgb(240, 240, 240);
+	color: #1e00ff;
 }
+
+
 
 #game-canvas {
 	width: 800px;
 	height: 600px;
-	border: solid 1px black;
+	border: solid 1px rgb(255, 0, 0);
 }

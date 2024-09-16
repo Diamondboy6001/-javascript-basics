@@ -1,3 +1,3 @@
 # My Game is Cool!
 
-hamster dance
+my game is super mega cool!!!!!!!!!!!!!
